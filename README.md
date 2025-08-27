@@ -41,7 +41,7 @@ I'm a passionate software development with experience in python and golang. I lo
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn] https://www.linkedin.com/in/hamisi-ali-a03855361/
+-  LinkedIn-https://www.linkedin.com/in/hamisi-ali-a03855361/
 - **[Twitter]**(your_twitter_profile_link)
 
 
