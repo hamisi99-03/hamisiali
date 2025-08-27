@@ -10,7 +10,7 @@ I'm a passionate software development with experience in python and golang. I lo
 
 - 🌱 Currently learning: back-end development
 - 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
+- 🌍 Languages: python , golang , english, swahili
 - 📫 How to reach me: yuzalsif2@gmail.com
 - ⚡ Fun fact: i love gaming
 
